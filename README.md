@@ -3,7 +3,6 @@
 ### Cybersecurity Learner • Pentesting Student • Future Security Engineer
 
 I'm building a full multi-year cybersecurity roadmap with:
-- 100+ projects
 - Full documentation
 - Linux, Networking, Pentesting, Web Security
 - Coding in Python, Bash, PowerShell, JavaScript, C#, Java
@@ -21,3 +20,4 @@ Become a cybersecurity engineer specializing in:
 - Web Security
 - Pentesting
 - Cloud Security Architecture
+- Bug Hunting
